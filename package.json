@@ -1,0 +1,12 @@
+{
+  "name": "sapphire-hackathon",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.2",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@oasisprotocol/sapphire-hardhat": "^2.16.1",
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
